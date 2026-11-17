@@ -1,4 +1,4 @@
-# BUNKWAAZ: Tourism Website
+# BUNKBAAZ: Tourism Website
 
 A simple, responsive tourism website covering three Indian states: **Rajasthan, Uttar Pradesh and Haryana**.
 
